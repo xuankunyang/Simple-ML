@@ -97,7 +97,7 @@ Important Components:
 
 - **[report/report.pdf](report/report.pdf)**: Main project report, including methodology and experimental results.
 - **[Supplementaries.pdf](Supplementaries.pdf)**: Assignment supplementary instructions, providing additional guidance.
-- **[Topic and Requirements.pdf](Topic and Requirements.pdf)**: Assignment topic description, defining project requirements.
+- **[Topic_and_Requirements.pdf](Topic_and_Requirements.pdf)**: Assignment topic description, defining project requirements.
 
 Other Reference Materials:
 - scikit-learn Official Documentation: https://scikit-learn.org/stable/

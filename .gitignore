@@ -1,0 +1,9 @@
+data/
+TripDataset/Dataset/
+*.py
+*.pdf
+report/*
+!report/*.tex
+!report/report.pdf
+!Supplementaries.pdf
+!Topic_and_Requirements.pdf
